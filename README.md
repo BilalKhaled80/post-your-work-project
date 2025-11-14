@@ -56,7 +56,7 @@ The script will then display e.g.:
 ## Contribution guidelines
 
 Feel free to contribute to this project!. Please make sure to follow these steps:
-1. Fork the repo. and create your own branch
+1. Fork the repository and create your own branch
 ```bash
 git checkout -b your-branch-name
 ```
@@ -75,3 +75,4 @@ git checkout -b your-branch-name
 
 - November 14, 2025
 - Author: Bilal Khaled
+- Version: 1.0
